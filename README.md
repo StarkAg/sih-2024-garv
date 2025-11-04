@@ -1,10 +1,10 @@
-# GARV - Webpage Project
+# SIH 2024 - GARV: Webpage Project
 
-A modern, responsive webpage showcasing GARV's solution with a clean UI design and interactive elements.
+A modern, responsive webpage showcasing GARV's solution, developed for Smart India Hackathon 2024.
 
 ## 📋 Project Overview
 
-GARV is a web-based project featuring a professional landing page with navigation, hero sections, and interactive components. The project demonstrates modern web design principles with a focus on user experience.
+GARV is a web-based project featuring a professional landing page with navigation, hero sections, and interactive components. The project demonstrates modern web design principles with a focus on user experience, developed as part of Smart India Hackathon 2024.
 
 ## 🎨 Features
 
@@ -18,12 +18,12 @@ GARV is a web-based project featuring a professional landing page with navigatio
 
 - **HTML5**: Semantic markup
 - **CSS3**: Modern styling with animations and transitions
-- **JavaScript**: Interactive functionality (if applicable)
+- **JavaScript**: Interactive functionality
 
 ## 📁 Project Structure
 
 ```
-Garv Webpage/
+SIH 2024 - Garv/
 ├── t11.html          # Main HTML file
 ├── t1.mp4            # Video content
 ├── t1....jpg         # Image assets
@@ -82,13 +82,20 @@ To customize the webpage:
 2. Modify CSS styles within the `<style>` tag
 3. Update images and video files as needed
 
+## 🎯 Hackathon Details
+
+- **Event**: Smart India Hackathon 2024 (SIH 2024)
+- **Project**: GARV
+- **Category**: Web Development
+- **Status**: Completed
+
 ## 📄 License
 
 This project is part of a hackathon submission. All rights reserved.
 
 ## 👥 Contributors
 
-- Developed as part of GARV hackathon project
+- Developed as part of SIH 2024 hackathon project
 
 ## 📧 Contact
 
@@ -97,4 +104,3 @@ For questions or inquiries about this project, please refer to the main reposito
 ---
 
 **Note**: This is a static webpage project. For production deployment, consider using a modern framework or static site generator.
-
